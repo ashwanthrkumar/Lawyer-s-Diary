@@ -36,7 +36,6 @@
           <AbsoluteConstraints x="70" y="150" width="660" height="350"/>
         </Constraint>
       </Constraints>
-
       <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
       <SubComponents>
         <Component class="javax.swing.JTable" name="table">
